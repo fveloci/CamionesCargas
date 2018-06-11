@@ -52,5 +52,9 @@ public Camion(){
     public void setmSector(ArrayList<Sector> mSector) {
         this.mSector = mSector;
     }
-    
+   //METODO
+    public boolean bienCargado(){
+        boolean resul=false;
+        return resul;
+    }
 }
