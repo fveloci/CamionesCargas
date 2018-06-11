@@ -15,7 +15,9 @@ public class CamionesCargas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("HOLA lucuianio");
+        Camion camion1=new Camion();
+        Sector sect1=new Sector();
+        Producto produ1=new Producto('f',44,33);
     }
     
 }

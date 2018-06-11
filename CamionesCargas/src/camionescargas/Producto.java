@@ -43,7 +43,7 @@ public class Producto {
         
     }
     public boolean rechazadoDelCamion(){
-        boolean resul;
+        boolean resul=true;
         
         
         return resul;
